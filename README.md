@@ -11,6 +11,9 @@ MakerEdu Creator mà mạch điều khiển trung tâm trong hệ sinh thái ph�
 3. Chức năng điều khiển 2 Động cơ DC, 2 Động cơ RC Servo qua Khối Công Suất (Power Unit).
 
 Mạch MakerEdu Creator được thiết kế dựa trên nền tảng là mạch Arduino Uno nên hoàn toàn tương thích với các phần mềm:
+- Phần mềm Arduino (chọn Device là Arduino Uno).
+- Phần mềm Mblock (chọn Device là MakerEdu Creator).
+- Phần mềm PictoBlox (Chọn Device là Arduino Uno).
 
 ## Thông số kỹ thuật
 
